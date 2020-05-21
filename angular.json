@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reservation-app"
+    }
+  },
+  "defaultProject": "reservation-app",
+  "cli": {
+    "analytics": false
+  }
 }
